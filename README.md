@@ -5,7 +5,7 @@ Python.
 
 ## Ferramentas Necessárias
 
-Para começar, vamos precisar de duas bibliotecas principais:
+Para começar, vamos precisar da biblioteca pdfplumber:
 
 1.**pdfplumber**: Uma biblioteca que facilita a extração de texto e outras informações de PDFs de maneira precisa.
 
